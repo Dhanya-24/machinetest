@@ -1,0 +1,34 @@
+.location{
+    margin: 0 auto;
+    width: 90%;
+    padding: 20px;
+}
+.location-header{
+    display: flex;
+    justify-content: space-between;
+    background-color: lightgrey;
+    padding: 20px;
+}
+.location-remove{
+    border: 1px solid lightgray;
+    min-height: 100px;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 50px;
+}
+i{
+  margin: auto 0 ;
+}
+
+.sub-btn{
+    width: 230px;
+    height: 50px;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-left: 560px;
+    background-color:rgb(25, 60, 112);
+    color: white;
+    font-size: medium;
+    border: none;
+}
